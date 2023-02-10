@@ -7,7 +7,7 @@
 Лекции:
 ----
 
-1. #### [Тема: "Введение и основные понятия".](/Lectures/ReadMe.md)
+1. #### [Тема: "Введение и основные понятия".](/Lectures/1.%20Введение%20и%20основные%20понятия)
 
    ##### 	[Лекция. Интеллектуальные системы.](https://github.com/SergUSProject/IntelligentSystemsAndTechnologies/blob/dbd6d3f56b1d7e723566a822036939b560309c16/Lectures/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.%20%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.pdf)
 
