@@ -8,7 +8,7 @@
 
 - ##### [Язык Python, Оболочка IPython, Блокноты Jupyter](Jupyter.ipynb).
 
-- ##### [Библиотека Numpy](NumpyExamples.ipynb) с [примерами](/numpy/) основных необходимых математических операций.
+- ##### [Библиотека Numpy](NumpyExamples.ipynb) с [примерами](./numpy/) основных необходимых математических операций.
 
 - ##### [Библиотека Pandas](PandasExamples.ipynb).
 
