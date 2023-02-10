@@ -8,7 +8,7 @@
 
 Содержание:
 
-1. [Модели обучения с учителем](supervised learning models/ReadMe.md).
+1. [Модели обучения с учителем](supervised%20learning%20models/ReadMe.md).
 
 2. [Модели обучения без учителя]().
 
