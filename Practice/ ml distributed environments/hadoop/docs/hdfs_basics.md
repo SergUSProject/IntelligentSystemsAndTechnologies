@@ -263,5 +263,5 @@ hadoop jar ReadFileApp.jar edu.classes.hdfs.BasicReadFile hdfs://localhost:9000/
 
 Смотрите
 
-- [Развертывание на docker](docs/hadoop_docker_part_1.md)
+- [Развертывание на docker](./docs/hadoop_docker_part_1.md)
 
