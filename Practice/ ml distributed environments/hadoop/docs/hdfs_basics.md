@@ -231,7 +231,7 @@ BasicHDFSApp
 
 ### Прикрепите HDFS исходный код
 
-1) Загрузите исходный кодHadoop ([here Hadoop 3.1.0](https://archive.apache.org/dist/hadoop/core/hadoop-3.1.0/))
+1) Загрузите исходный код Hadoop ([here Hadoop 3.1.0](https://archive.apache.org/dist/hadoop/core/hadoop-3.1.0/))
 2) Распакуйте архив
 3) `File` -> `Project structure` -> Выберите `Libraries`
 4) Найдите`org.apache.hadoop:hadoop-common:3.1.0` -> Удалите `Source` -> Добавьте `Source`: `HADOOP_SOURCE_DIR/hadoop-common-project/hadoop-common` -> `OK` -> Прикрепите `src/main/java` -> `OK` -> `Apply` и `OK`
