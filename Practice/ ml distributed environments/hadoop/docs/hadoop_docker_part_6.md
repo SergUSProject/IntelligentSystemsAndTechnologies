@@ -1,4 +1,4 @@
-# Hadoop на Docker. Чачть 6: Составление Compose для Swarm
+# Hadoop на Docker. Чаcть 6: Составление Compose для Swarm
 
 Усовик С.В. (usovik@mirea.ru)
 
