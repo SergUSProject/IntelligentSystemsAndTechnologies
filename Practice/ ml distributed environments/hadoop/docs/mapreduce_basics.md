@@ -43,7 +43,7 @@
 - `hadoop/etc/hadoop/yarn-site.xml` ([default values](https://hadoop.apache.org/docs/r3.1.2/hadoop-yarn/hadoop-yarn-common/yarn-default.xml)) -  параметры конфигурации
 - `hadoop/etc/hadoop/capacity-scheduler.xml`
 
-Файлы конфигурации можно найти [здесь](/config/) 
+Файлы конфигурации можно найти [здесь](../config/) 
 
 ## Конфигурация MapReduce
 
@@ -72,7 +72,7 @@ MapReduce конфигурационные файлы:
 Команда для загрузки конфигурационного файла:
 
 ```
-wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/BigDataProcSystems/Practice/master/hadoop/config/mapreduce/mapred-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/mapreduce/mapred-site.xml
 ```
 
 ## Запуск Hadoop кластера
@@ -103,11 +103,11 @@ wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubuserconten
 
 ## Пример исходного кода Java WordCount
 
-1. [Main class](/projects/java/WordCountApp/src/main/java/edu/classes/mr/WordCount.java)
+1. [Main class](../projects/java/WordCountApp/src/main/java/edu/classes/mr/WordCount.java)
 
-2. [Test class](/projects/java//WordCountApp/src/test/java/edu/classes/mr/WordCountTest.java)
+2. [Test class](../projects/java//WordCountApp/src/test/java/edu/classes/mr/WordCountTest.java)
 
-3. [pom.xml](/projects/java/WordCountApp/pom.xml)
+3. [pom.xml](../projects/java/WordCountApp/pom.xml)
 
 ## Запуск MapReduce с локальными файлами
 
