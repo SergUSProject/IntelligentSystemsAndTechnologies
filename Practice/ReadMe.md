@@ -14,3 +14,14 @@
 1. ##### [Инструменты работы с данными.](/Practice/instruments/)
 
 2. ##### [Модели и алгоритмы машинного обучения](/Practice/models/)
+
+3. ##### [Рекомендательные системы](/Practice/recommender%20systems/)
+
+4. ##### [Нейронные сети](/Practice/neural%20networks/)
+
+5. ##### [Предобработка данных и генерация признаков](/Practice/data%20preprocessing%20&%20feature%20engineering/)
+
+6. ##### [Применение алгоритмов машинного обучения в распределенных средах](/Practice/ml%20distributed%20environments/)
+
+
+
