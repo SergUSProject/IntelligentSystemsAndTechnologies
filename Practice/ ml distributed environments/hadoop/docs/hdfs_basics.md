@@ -47,7 +47,7 @@
 - `hadoop/etc/hadoop/core-site.xml` ([default values](https://hadoop.apache.org/docs/r3.1.2/hadoop-project-dist/hadoop-common/core-default.xml))
 - `hadoop/etc/hadoop/hdfs-site.xml` ([default values](https://hadoop.apache.org/docs/r3.1.2/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml))
 
-Вы можете найти все файлы конфигурации, которые должны быть изменены, ссылке: [configuration files](config/hdfs).
+Вы можете найти все файлы конфигурации, которые должны быть изменены, ссылке: [configuration files](../config/hdfs).
 
 
 Или выполните следующие команды для загрузки:
