@@ -43,7 +43,7 @@
 - Скопируйте скрипт entrypoint
 - Выполните скрипт entrypoint
 
-Dockerfile можно найти [здесь](/projects/docker/hadoop/base/ubuntu.Dockerfile).
+Dockerfile можно найти [здесь](../projects/docker/hadoop/base/ubuntu.Dockerfile).
 
 ```dockerfile
 FROM ubuntu:14.04
