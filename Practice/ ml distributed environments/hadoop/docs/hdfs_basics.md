@@ -54,13 +54,13 @@
 
 ```bash
 # .profile
-wget -O ~/.profile https://raw.githubusercontent.com/BigDataProcSystems/Practice/master/hadoop/config/hdfs/.profile
+wget -O ~/.profile https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/hdfs/.profile
 # hadoop-env.sh
-wget -O ~/BigData/hadoop/etc/hadoop/hadoop-env.sh https://raw.githubusercontent.com/BigDataProcSystems/Practice/master/hadoop/config/hdfs/hadoop-env.sh
+wget -O ~/BigData/hadoop/etc/hadoop/hadoop-env.sh https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/hdfs/hadoop-env.sh
 # core-site.xml
-wget -O ~/BigData/hadoop/etc/hadoop/core-site.xml https://raw.githubusercontent.com/BigDataProcSystems/Practice/master/hadoop/config/hdfs/core-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/core-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/hdfs/core-site.xml
 # hdfs-site.xml
-wget -O ~/BigData/hadoop/etc/hadoop/hdfs-site.xml https://raw.githubusercontent.com/BigDataProcSystems/Practice/master/hadoop/config/hdfs/hdfs-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/hdfs-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/hdfs/hdfs-site.xml
 ```
 
 
