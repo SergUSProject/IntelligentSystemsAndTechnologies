@@ -21,7 +21,7 @@
 
 5. ##### [Предобработка данных и генерация признаков](/Practice/data%20preprocessing%20&%20feature%20engineering/)
 
-6. ##### [Применение алгоритмов машинного обучения в распределенных средах](/Practice/ml%20distributed%20environments/)
+6. ##### [Применение алгоритмов машинного обучения в распределенных средах](/Practice/%20ml%20distributed%20environments/)
 
 
 
