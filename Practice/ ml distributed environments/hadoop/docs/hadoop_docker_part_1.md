@@ -6,15 +6,15 @@
 
 ## Действия
 
-- создание базового образа для дистрибутива Hadoop ([part 2](hadoop_docker_part_2.md))
+- создание базового образа для дистрибутива Hadoop ([Часть. 2](hadoop_docker_part_2.md))
 
-- создание образов master и worker ([part 3](hadoop_docker_part_3.md))
+- создание образов master и worker ([Часть. 3](hadoop_docker_part_3.md))
 
-- запуск кластера Hadoop на одном хосте ([part 4](hadoop_docker_part_4.md))
+- запуск кластера Hadoop на одном хосте ([Часть. 4](hadoop_docker_part_4.md))
 
-- развертывание кластера Hadoop на нескольких хостах с использованием режима Docker Swarm ([part 5](hadoop_docker_part_5.md))
+- развертывание кластера Hadoop на нескольких хостах с использованием режима Docker Swarm ([Часть. 5](hadoop_docker_part_5.md))
 
-- использование компоновочного файла для развертывания Docker Swarm ([part 6](hadoop_docker_part_6.md))
+- использование компоновочного файла для развертывания Docker Swarm ([Часть. 6](hadoop_docker_part_6.md))
 
   
 
