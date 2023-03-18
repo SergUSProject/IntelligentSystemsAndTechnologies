@@ -4,13 +4,13 @@
 
 #### Лекции:
 
-1. ##### [Лекция. Рекомендательные системы](Лекция.%20Рекомендательные%20системы.pdf)
+1. ##### [Лекция. Рекомендательные системы](Рекомендательные%20системы.pdf)
 
 1. ##### [Метод Word2Vec](Word2Vec.md)
 
-1. ##### [Метод Restricted Boltzmann machine](Restricted Boltzmann machine.md)
+1. ##### [Метод Restricted Boltzmann machine](Restricted%20Boltzmann%20machine.md)
 
-1. ##### [Метод Deep Semantic Similarity Model](Deep Semantic Similarity Model.md)
+1. ##### [Метод Deep Semantic Similarity Model](Deep%20Semantic%20Similarity%20Model.md)
 
    
 
