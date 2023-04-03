@@ -72,7 +72,7 @@ MapReduce конфигурационные файлы:
 Команда для загрузки конфигурационного файла:
 
 ```
-wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/mapreduce/mapred-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/distributed%20environments%20in%20intelligent%20systems/hadoop/config/mapreduce/mapred-site.xml
 ```
 
 ## Запуск Hadoop кластера
