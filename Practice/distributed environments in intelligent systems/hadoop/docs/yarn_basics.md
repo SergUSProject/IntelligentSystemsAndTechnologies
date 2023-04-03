@@ -49,11 +49,11 @@ YARN конфигурационные файлы:
 
 ```bash
 # yarn-site.xml
-wget -O ~/BigData/hadoop/etc/hadoop/yarn-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/yarn/yarn-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/yarn-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/distributed%20environments%20in%20intelligent%20systems/hadoop/config/yarn/yarn-site.xml
 # capacity-scheduler.xml
-wget -O ~/BigData/hadoop/etc/hadoop/capacity-scheduler.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/yarn/capacity-scheduler.xml
+wget -O ~/BigData/hadoop/etc/hadoop/capacity-scheduler.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/distributed%20environments%20in%20intelligent%20systems/hadoop/config/yarn/capacity-scheduler.xml
 # mapred-site.xml
-wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/%20ml%20distributed%20environments/hadoop/config/mapreduce/mapred-site.xml
+wget -O ~/BigData/hadoop/etc/hadoop/mapred-site.xml https://raw.githubusercontent.com/SergUSProject/IntelligentSystemsAndTechnologies/main/Practice/distributed%20environments%20in%20intelligent%20systems/hadoop/config/mapreduce/mapred-site.xml
 ```
 
 ### Распределение памяти и vcores
