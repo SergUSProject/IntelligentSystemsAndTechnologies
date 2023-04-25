@@ -65,7 +65,7 @@ search.fit(X_scaled, y)
 
 ### Подбор гиперпараметров при помощи Apache Spark
 
-Пример демонстрации работы методов фреймворка Spark для подбора гиперпараметров на кластере приведен в [notebook](./notebooks/AutoML_TrainTestSplit_LR.ipynb) для [набора данных](../data/sample_linear_regression_data.txt).
+Пример демонстрации работы методов фреймворка Spark для подбора гиперпараметров на кластере приведен в [notebook](../notebooks/AutoML_TrainTestSplit_LR.ipynb) для [набора данных](../data/sample_linear_regression_data.txt).
 
 Первоначально задается сетка параметров для перебора гиперпараметров:
 
