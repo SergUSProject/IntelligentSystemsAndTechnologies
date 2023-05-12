@@ -8,13 +8,13 @@
 
 #### Практика:
 - [Конфигурация Spark на YARN](docs/spark_basics.md)
-- [Введение в PySpark RDD API](/notebooks/spark_rdd_basics.ipynb)
-- [Introduction to PySpark DataFrame API](/notebooks/spark_df_basics.ipynb)
+- [Введение в PySpark RDD API](notebooks/spark_rdd_basics.ipynb)
+- [Introduction to PySpark DataFrame API](notebooks/spark_df_basics.ipynb)
 - Spark и обработка пользовательских отзывов:
-    - Часть 1. Интерактивная оболочка при помощи Jupyter ([Python](/notebooks/spark_rdd_reviews.ipynb))
+    - Часть 1. Интерактивная оболочка при помощи Jupyter ([Python](notebooks/spark_rdd_reviews.ipynb))
     - Часть 2. Самостоятельное прилоожение ([Java](docs/spark_reviews.md) | [Python](docs/spark_reviews_py.md))
-- [UDF в PySpark](/notebooks/spark_udf.ipynb)
-- [Примеры применения Spark DataFrames](/notebooks/spark_gf_biketrips.ipynb)
+- [UDF в PySpark](notebooks/spark_udf.ipynb)
+- [Примеры применения Spark DataFrames](notebooks/spark_gf_biketrips.ipynb)
 - [Spark и Jupyter при помощи Livy в качестве REST-сервера  Spark](docs/spark_livy_jupyter.md)
 
 
