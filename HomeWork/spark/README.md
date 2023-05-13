@@ -2,7 +2,7 @@
 
 ## HW1. Spark RDD API
 
-[Spark RDD API](./docs/BigData_A1.md)
+[Spark RDD API](.docs/BigData_A1.md)
 
 ## HW2. Spark DataFrame API
 
