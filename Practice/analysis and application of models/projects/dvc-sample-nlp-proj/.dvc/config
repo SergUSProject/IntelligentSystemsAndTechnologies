@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+    no_scm = true
+['remote "myremote"']
+    url = s3://s3yndx/dvc-test
+    endpointurl = https://storage.yandexcloud.net
